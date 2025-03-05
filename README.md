@@ -73,7 +73,7 @@ File Structure
 
 Future Enhancements
 
-✅ Add a GUI using Flask, Tkinter, or Streamlit.✅ Integrate with Telegram, Discord, or WhatsApp.✅ Convert into a voice-based chatbot using speech_recognition.✅ Store chat history for model improvements.
+✅ Add a GUI using Flask, Tkinter, or Streamlit.✅ Convert into a voice-based chatbot using speech_recognition.✅ Store chat history for model improvements.
 
 License
 
